@@ -2,7 +2,10 @@
 CLIMOPOLI
 
 IMPREVISTI 
-Il Perl non gira: stai fermo 3 1 turno
+
+Il Perl non gira: stai fermo 3 1 turnio
+
+
 "Menego ti ha dato 300 articoli sull'energia. Stai fermo 4 notti per studiarli, di giorno devi lavorare!"
  
 "Daniele ti ha insegnato la prima guerra mondiale. Ora sei più preparato, vinci un contratto di un mese"
@@ -42,6 +45,7 @@ Maracchi ti chiama per una riunione. Sei bloccato 8 ore
 arrivi in cucina per mangiare e trovi l'amministarzione: ti spari alle palle e vai direttamente al vicolo del Denego
 
 Il Menego ha battuto la testa e ti dice che hai due giorni di ferie. Approfittane per allontarti il più possibile. Tira il dado e avanza
+
 "Ti dicono di partecipare al master in Meteorologia Applicata. Tira un dado: se esce 6 diventi protagonista del "Sabato del Capecchi" e non avrai problemi, altrimenti scordati il sole del sabato mattina per i prossimi 10 mesi. Arretra di una casella ogni 7 per i prossimi tre giri."
 
 Il Capecchi e la Ramona devono spazializzare: salti due turni mentre gira il Kriging
